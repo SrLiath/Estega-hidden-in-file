@@ -31,7 +31,7 @@
  1. Execute o script com o seguinte comando:
 
  ```bash
- python steganography_app.py
+ python estega.py
  ```
 
  2. A interface gráfica será aberta com as seguintes opções:
